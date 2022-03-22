@@ -6,8 +6,18 @@ The follwoing guide will help you to run this code locally
 
 1. Clone this repo with following command `https://github.com/varashyama/recbots_task.git`
 2. Navigate to the folder `cd recbots_task` (For Linux)
-3. now install dependencies `npm i`
-4. Run the code locally `npm start`
+
+## Client
+3. Navigate to client folder `cd client`
+4. now install dependencies `npm i`
+5. Run the code locally `npm start`
+
+## Server
+
+3. Navigate to server folder `cd server`
+4. now install dependencies `npm i`
+5. Run the code locally `npm start`
+
 
 
 ## Instructions to use the app
